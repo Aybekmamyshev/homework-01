@@ -1,3 +1,13 @@
-const cowsay = require("cowsay")
-c
-console.log(cowsay.say({text: 'I am moodule'}))
+import React from 'react';
+
+const App = () => {
+    return (
+        <div>
+            <h1>hello</h1>
+            <p>redy</p>
+        </div>
+
+    );
+};
+
+export default App;
